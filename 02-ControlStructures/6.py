@@ -1,4 +1,8 @@
-x = int(input("Wprowadź dane: "))
-for i in range(1, 11, 2):
-    print(f"{x} x {i} = {x*i}")
+x = 3
+y = 1 + x
+z = 2 * x - 4
+for n in range(z):
+    y += n + x
+    x = x + 1
+print(x,y,n)
     
