@@ -1,0 +1,1 @@
+imiona = [Genowefa, Onufry, Celestyna, Alojzy, Pankracy, Teofil]
